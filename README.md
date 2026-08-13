@@ -6,7 +6,8 @@ Här är material till mina gruppövningar och seminarier samt nyttiga resurser 
 
 ## Resurser
 
-[CoreEcon-boken](https://core-econ.org/)
+### [CoreEcon](https://core-econ.org/)
+- [The Economy 2.0: Microeconomics](https://books.core-econ.org/the-economy/microeconomics/)
 
 ### YouTube-kanaler
 
