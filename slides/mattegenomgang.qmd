@@ -1,0 +1,78 @@
+---
+title: "EC1111: Gruppövningar"
+author: "Svante Daneklev Wold"
+format: 
+    revealjs:
+        theme: simple
+        footer: "EC1111 - Gruppövningar - Svante Daneklev Wold"
+        smaller: true
+        slide-number: true
+title-slide-attributes:
+    data-background-image: imageback.jpg
+    data-background-opacity: "0.3"
+---
+
+## Välkomna! {.incremental}
+
+::: fragment
+*Vem är jag?*
+
+::: fragment
+Svante Daneklev Wold
+:::
+
+::: {.incremental}
+- Masterstudent
+- Kandidatexamen i nationalekonomi från Oslo Universitet
+- Er lärare under gruppövningarna och seminarieserien!
+:::
+:::
+
+::: fragment
+*Vilka är ni?*
+:::
+
+## Nationalekonomi är kul!
+
+::: {.incremental}
+- Kraftfull verktygslåda
+- Kan analysera det vi är intresserade av!
+:::
+
+::: fragment
+**Varför matte?**
+:::
+
+::: {.incremental}
+- Analys med logisk konsekvens
+    - Modeller
+- Det är roligt!
+:::
+
+## Tips
+
+Utnyttja fler källor till kursmaterialet!
+
+::: {.incremental}
+- <https://www.core-econ.org/> är en hel bok som ligger gratis på nätet!
+- [YouTube](https://youtube.com)! Tips på kanaler:
+    - Organic Chemistry Tutor (ja, faktiskt!)
+    - Khan Academy
+    - INOMICS
+    - One Minute Economics
+    - EconPlusDal
+:::
+
+## Praktisk info
+
+::: fragment
+All information publiceras på Canvas. Kursadministrationen kan svara på praktiska frågor om kursen. 
+:::
+
+<br>
+
+::: fragment
+Jag hjälper er gärna om ni sitter fast, men försök också att hjälpa varandra! Kom gärna med förslag och önskemål om det är något ni vill att vi ska fokusera extra på.
+
+- Maila mig på <svante.wold@su.se>
+:::
