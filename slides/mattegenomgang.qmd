@@ -8,7 +8,7 @@ format:
         smaller: true
         slide-number: true
 title-slide-attributes:
-    data-background-image: imageback.jpg
+    data-background-image: assets/imageback.jpg
     data-background-opacity: "0.3"
 ---
 
