@@ -1,4 +1,4 @@
-Här är material till mina gruppövningar och seminarier och nyttiga resurser för studenter.
+Här är material till mina gruppövningar och seminarier samt nyttiga resurser för studenter.
 
 ## Slides för genomgångar
 
