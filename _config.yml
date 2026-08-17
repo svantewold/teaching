@@ -6,3 +6,9 @@ title: Undervisningsmaterial
 minimal_mistakes_skin: "dirt"
 locale: "se"
 name: "Svante Daneklev Wold"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
