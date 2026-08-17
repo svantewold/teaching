@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 title: Undervisningsmaterial
+minimal_mistakes_skin: "dirt"
+locale: "se"
+name: "Svante Daneklev Wold"
