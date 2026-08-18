@@ -1,17 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes@4.28.1
-plugins:
-- jekyll-remote-theme
-- jekyll-include-cache
-atom_feed:
-    hide: true
+theme: jekyll-theme-primer
 title: "Undervisningsmaterial EC1111 - Svante Daneklev Wold"
-minimal_mistakes_skin: "contrast"
 locale: "se"
 name: "Svante Daneklev Wold"
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
 description: "Svante Daneklev Wold"
