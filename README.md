@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Här är material till mina gruppövningar och seminarier samt nyttiga resurser för studenter.
 
 ## Slides för genomgångar
