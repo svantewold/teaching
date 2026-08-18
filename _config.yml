@@ -2,8 +2,8 @@ remote_theme: mmistakes/minimal-mistakes@4.28.1
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
-title: Undervisningsmaterial
-minimal_mistakes_skin: "dirt"
+title: "Undervisningsmaterial EC1111 - Svante Daneklev Wold"
+minimal_mistakes_skin: "default"
 locale: "se"
 name: "Svante Daneklev Wold"
 defaults:
@@ -12,3 +12,4 @@ defaults:
       type: pages
     values:
       layout: single
+description: "Svante Daneklev Wold"
