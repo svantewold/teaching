@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Här är material till mina gruppövningar och seminarier samt nyttiga resurser för studenter.
