@@ -5,7 +5,7 @@ plugins:
 atom_feed:
     hide: true
 title: "Undervisningsmaterial EC1111 - Svante Daneklev Wold"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "contrast"
 locale: "se"
 name: "Svante Daneklev Wold"
 defaults:
