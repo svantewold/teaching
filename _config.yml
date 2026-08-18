@@ -2,6 +2,8 @@ remote_theme: mmistakes/minimal-mistakes@4.28.1
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
+atom_feed:
+    hide: true
 title: "Undervisningsmaterial EC1111 - Svante Daneklev Wold"
 minimal_mistakes_skin: "default"
 locale: "se"
